@@ -5,16 +5,19 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on Kyunghee University, department of Electronics
- 🌱 I’m currently learning Electronics & Quantum Informatics 
+- 🔭 I’m currently working on Kyunghee University, department of Electronics
+- 🌱 I’m currently learning Electronics & Quantum Informatics 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
- 📫 How to reach me: iwin1017@naver.com with Korean or English
+- 📫 How to reach me: iwin1017@naver.com with Korean or English
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 ![BlueWhale1017's github stats](https://github-readme-stats.vercel.app/api?username=BlueWhale1017&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=iwin1017)](https://solved.ac/iwin1017)
+
 
 
